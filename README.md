@@ -1,4 +1,4 @@
-# Unicorn-companies
+# Python Analysis- Unicorn-companies
 An Analysis of Unicorn Companies using Python.
 Unicorn Companies are Private companies with a valuation over $1 billion as of March 2022, including each company's current valuation, funding, country of origin, industry, select investors, and the years they were founded and became unicorns.
 These companies have all achieved great success in their respective industries, and they are seen as leaders in the future of technology. Unicorn companies are often characterized by their innovative business models, their rapid growth, and their ability to attract top talent.
